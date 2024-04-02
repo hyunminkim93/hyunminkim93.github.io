@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: hyunminkim93 # the main title
 
-tagline: Developer wonyoung
+tagline: Developer Hyunmin
 
 description: >- # used by seo meta and the atom feed
   hi!😊
@@ -38,8 +38,8 @@ social:
   email: rlagusals234@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/webs9919 # change to your twitter homepage
-    - https://github.com/webs9919 # change to your github homepage
+    - https://twitter.com/hyunminkim93 # change to your twitter homepage
+    - https://github.com/hyunminkim93 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
