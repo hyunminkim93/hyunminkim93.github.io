@@ -191,4 +191,3 @@ jekyll_compose:
       tags:
       published: true
       sitemap: true
-      future: true
