@@ -39,16 +39,16 @@ $code-icon-width: 1.75rem !default;
 }
 
 @font-face {
-    font-family: 'ChosunGs';
-    font-weight: bold;
-    font-style: bold;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunGs/ChosunGs.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunGs/ChosunGs.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunGs/ChosunGs.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunGs/ChosunGs.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunGs/ChosunGs.ttf') format("truetype");
+    font-family: 'TheJamsil';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/TheJamsil/TheJamsil-Medium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/TheJamsil/TheJamsil-Medium.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/TheJamsil/TheJamsil-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/TheJamsil/TheJamsil-Medium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/TheJamsil/TheJamsil-Medium.ttf') format("truetype");
     font-display: swap;
 }
 
-$font-family-base: 'ChosunGs', 'Microsoft Yahei', sans-serif !default;
-$font-family-heading: 'ChosunGs', 'Microsoft Yahei', sans-serif !default;
+$font-family-base: 'TheJamsil', 'Microsoft Yahei', sans-serif !default;
+$font-family-heading: 'TheJamsil', 'Microsoft Yahei', sans-serif !default;
